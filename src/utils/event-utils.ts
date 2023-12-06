@@ -23,6 +23,9 @@ export const _info = {
             'utm_content',
             'utm_term',
             'gclid',
+            'gbraid',
+            'wbraid',
+            'igclid',
             'fbclid',
             'msclkid',
         ].concat(customParams || [])
